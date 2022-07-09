@@ -1,9 +1,10 @@
 # motion_planning_HW
 
-## [Basic Search Algorithms](Basic Search Algorithms (BFS, DFS, Dijkstra and A-star)/README.md)
-## [Standard Search Algorithms](Standard Seach Algorithms (PRM and RRT)/README.md)
-## [Advanced Search Algorithms](Advanced Search Algorithms (Informed-RRT-star and D-star)/README.md)
-### [Quick Installation Instructions](tutorials/quick_setup.md)
+## new
+1. A numbered list
+    1. A nested numbered list
+    2. Which is numbered
+2. Which is numbered
 
 ## Basic Search Algorithm
 
