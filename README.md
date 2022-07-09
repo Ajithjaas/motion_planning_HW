@@ -1,8 +1,8 @@
 # motion_planning_HW
 
-## [Basic Search Algorithms](./Basic Search Algorithms (BFS, DFS, Dijkstra and A-star)/README.md)
-## [Standard Search Algorithms](./Standard Seach Algorithms (PRM and RRT)/README.md)
-## [Advanced Search Algorithms](./Advanced Search Algorithms (Informed-RRT-star and D-star)/README.md)
+## [Basic Search Algorithms] (Basic Search Algorithms (BFS, DFS, Dijkstra and A-star)/README.md)
+## [Standard Search Algorithms] (Standard Seach Algorithms (PRM and RRT)/README.md)
+## [Advanced Search Algorithms] (Advanced Search Algorithms (Informed-RRT-star and D-star)/README.md)
 
 
 ## Basic Search Algorithm
