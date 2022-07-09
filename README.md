@@ -1,5 +1,10 @@
 # motion_planning_HW
 
+## [Basic Search Algorithms](Basic Search Algorithms (BFS, DFS, Dijkstra and A-star)/)
+## [Standard Search Algorithms](Standard Seach Algorithms (PRM and RRT)/)
+## [Advanced Search Algorithms](Advanced Search Algorithms (Informed-RRT-star and D-star)/)
+
+
 ## Basic Search Algorithm
 
 ### Test Case 1: When a valid goal is given
