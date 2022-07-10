@@ -1,7 +1,7 @@
 # motion_planning_HW
 
 1. For PRM, what are the advantages and dis-advantages if the four sampling methods in comparison to each other? 
-  1. Uniform sampling:
+    1. Uniform sampling:
         * Advantages: 
           1. Low complexity 
           2. Always ensures to find a path as sample is through the C-space 
