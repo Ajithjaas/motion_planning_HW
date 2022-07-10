@@ -55,7 +55,7 @@ RRT* is a variant of the RRT where additional constraints are considered for con
 
 
 ## DISCUSSION
-1. For PRM, what are the advantages and dis-advantages if the four sampling methods in comparison to each other? 
+#### 1. For PRM, what are the advantages and dis-advantages if the four sampling methods in comparison to each other? 
     1. Uniform sampling:
         * Advantages: 
           1. Low complexity 
@@ -81,14 +81,14 @@ RRT* is a variant of the RRT where additional constraints are considered for con
         * Disadvantages: 
           1. If proper radius near the goal is not set, then the goal might not be able to connect with any of the sampled points and thus no path may be found. 
  
-2. For RRT, what is the main difference between RRT and RRT*? What changes does it make in terms of efficiency of the algorithms and optimality of the search result? 
+#### 2. For RRT, what is the main difference between RRT and RRT*? What changes does it make in terms of efficiency of the algorithms and optimality of the search result? 
     1. The main difference between RRT and RRT* is that, in RRT the new sampled point connects with the nearest node available from the tree irrespective of the cost-to-come, where in case of the RRT*, the neighbour nodes are searched to find the optimum cost-to-come and the new node then connects to that neighbour node. Another major difference is the rewiring of the neighbouring nodes in RRT* with respect to the new node, where as it RRT this doesn’t happen.  
  
     2. Efficiency: If we evaluate efficient with respect to time, then RRT gives an path quickest, but at the same time the path is sub-optimal. On the other hand RRT* algorithm takes a longer time to converge to an  optimal  path as well as  takes more nodes to rewire and connect and thus not efficient with respect to time. 
  
     3. Optimality:  On evaluating  optimality  of  the  algorithm  with  respect to  path,  RRT*  converges to  a optimal path with time when compared to RRT which most of the time returns an sub-optimal path. 
  
-3. Comparing between PRM and RRT, what are the advantages and disadvantages? 
+#### 3. Comparing between PRM and RRT, what are the advantages and disadvantages? 
  
     1. PRM: 
       * Advantage: 
