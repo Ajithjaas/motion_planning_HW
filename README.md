@@ -1,11 +1,12 @@
 # motion_planning_HW
 
-## new
-1. A numbered list
-    1. A nested numbered list
-    2. Which is numbered
-2. Which is numbered
-
+1. For PRM, what are the advantages and dis-advantages if the four sampling methods in comparison to each other? 
+  1. Uniform sampling:
+        Advantages: 
+          * Low complexity 
+          * Always ensures to find a path as sample is through the C-space 
+        Disadvantages: 
+          * Computationally expensive as huge number of nodes needs to be explored, which might not be a requirement to find the path. 
 ## Basic Search Algorithm
 
 ### Test Case 1: When a valid goal is given
